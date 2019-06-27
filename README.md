@@ -1,25 +1,11 @@
-# Hello PWA
+# Weight Tracker PWA
 The classic Hello World program as a Progressive Web App
+Modified to display a google form and the resulting trend created by a google sheets chart
 
-![Hello World Screenshot](./screenshot.jpg "Hello World Screenshot")
+Based on jamesjohnson280/hello-pwa from https://github.com/jamesjohnson280/hello-pwa
 
-## What It Is
-
-A simple PWA demo that displays the text "Hello, World!" utilizing an app manifest, service workers and caching. This demo is written in plain-vanilla HTML, CSS and Javascript (ES6). It has no dependencies.
-
-I've also written a tutorial to go along with the code. Read it on Medium:
-
-https://medium.com/james-johnson/a-simple-progressive-web-app-tutorial-f9708e5f2605
 
 ## Demo
 
-https://jamesjohnson280.github.io/hello-pwa/
 
-## Browser Compatibility
 
-Hello PWA has been tested in the following browsers:
-
-* Chrome 67 (Windows and Android)
-* Firefox 60
-* Safari 11
-* Edge 42

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   style="shape-rendering:crispEdges;opacity:1"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 214.10977 188.85132"
+   height="7.435091in"
+   width="8.4295187in">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-2.8864408,-19.219573)"
+     id="layer1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot823"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion825"><rect
+           id="rect827"
+           width="75"
+           height="57.857143"
+           x="94.285713"
+           y="80.376823" /></flowRegion><flowPara
+         id="flowPara829" /></flowRoot>    <g
+       id="g4546"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.51338577;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4602"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion4604"><rect
+           id="rect4606"
+           width="81.428574"
+           height="65"
+           x="-220"
+           y="52.519684" /></flowRegion><flowPara
+         id="flowPara4608" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot815"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157475;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(1.1538413,0,0,1.5532625,-45.504382,-116.49158)"><flowRegion
+         id="flowRegion817"
+         style="opacity:1;stroke-width:1.00157475;stroke-miterlimit:4;stroke-dasharray:none"><rect
+           id="rect819"
+           width="222.85715"
+           height="88.571426"
+           x="102.85714"
+           y="159.66254"
+           style="opacity:1;stroke-width:1.00157475;stroke-miterlimit:4;stroke-dasharray:none" /></flowRegion><flowPara
+         id="flowPara821">WT</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:6.44784451;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect833"
+       width="203.27156"
+       height="176.55125"
+       x="8.3055506"
+       y="25.369602" />
+  </g>
+</svg>

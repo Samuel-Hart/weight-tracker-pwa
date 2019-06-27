@@ -14,7 +14,8 @@
     <h1 class="vertical-container">Hello</h1>
     <script>
         if ('serviceWorker' in navigator) {
-            navigator.serviceWorker.register('../sw.js')
+            console.log()
+            navigator.serviceWorker.register('~/sw.js')
                 .then(function() {
                     console.log('Service Worker Registered');
                 });

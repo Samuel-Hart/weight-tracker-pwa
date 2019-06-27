@@ -1,6 +1,6 @@
 var cacheName = 'weight-tracker-pwa';
 var filesToCache = [
-    '/',
+    //'/',
     '/index.html',
     '/css/style.css',
     '/js/main.js'

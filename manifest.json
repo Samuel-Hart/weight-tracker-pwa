@@ -1,6 +1,6 @@
 {
-    "name": "Weight Tracker PWA",
-    "short_name": "Weight Tracker PWA",
+    "name": "Weight Tracker - For the Health Of It",
+    "short_name": "Weight Tracker",
     "icons": [{
         "src": "images/hello-icon-128.png",
         "sizes": "128x128",

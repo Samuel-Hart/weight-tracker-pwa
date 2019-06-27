@@ -6,20 +6,21 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#008000" />
-    <title>My hello world page</title>
+    <title>WT Start Page</title>
     <link rel="stylesheet" type="text/css" href="wt.css" media="all">
 </head>
 
 <body>
     <h1 class="vertical-container">Hello</h1>
+    <script>
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('/sw.js')
+                .then(function() {
+                    console.log('Service Worker Registered');
+                });
+        }
+    </script>
 </body>
-<script>
-    if ('serviceWorker' in navigator) {
-        navigator.serviceWorker.register('/sw.js')
-            .then(function() {
-                console.log('Service Worker Registered');
-            });
-    }
-</script>
+
 
 </html>
